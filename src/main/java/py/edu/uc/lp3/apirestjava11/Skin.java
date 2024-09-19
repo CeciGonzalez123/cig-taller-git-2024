@@ -1,4 +1,4 @@
-package py.edu.uc.lp3.apirest;
+package py.edu.uc.lp3.apirestjava11;
 
 public class Skin extends Vendible {
     private int rareza;
